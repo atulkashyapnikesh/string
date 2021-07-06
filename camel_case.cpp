@@ -35,7 +35,7 @@ int main(int argc, char const *argv[])
 	int t;
 	cin>>t;
 	while(t--){
-		string s="atul tashyap nikita kumar";
+		string s="atul kashyap";
 		// getline(cin,s);
 		camel_case(s);
 	}
